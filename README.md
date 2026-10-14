@@ -4,7 +4,7 @@
 Formado em Análise e Desenvolvimento de Sistemas e estudando **Java** para me tornar um desenvolvedor completo.
 
 ### 🛠️ O que uso no dia a dia
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-1E1E1E?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
