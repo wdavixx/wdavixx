@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou o David 👋
 
-<!--
-**wdavixx/wdavixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Sistemas** na Softtek, trabalhando com **SQL, PL/SQL e Oracle Database** em sistemas fiscais (NF-e).
+Formado em Análise e Desenvolvimento de Sistemas e estudando **Java** para me tornar um desenvolvedor completo.
 
-Here are some ideas to get you started:
+### 🛠️ O que uso no dia a dia
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-1E1E1E?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Estudando agora
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🚀 Projeto em destaque
+**[WealthFlow](https://github.com/wdavixx/wealthflow)** — app de finanças pessoais com IA (Gemini): orçamentos, extrato e plano de recuperação de dívidas. Feito com Google AI Studio + Stitch e publicado no Google Cloud Run.
+👉 [Ver o app funcionando](https://wealthflow-david-355653209045.us-east1.run.app)
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-montalvao)
